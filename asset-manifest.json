@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.b42fd38a.css",
-    "main.js": "/website/static/js/main.67941a06.js",
+    "main.css": "/website/static/css/main.ea46f720.css",
+    "main.js": "/website/static/js/main.d6600783.js",
     "static/js/453.01c969ee.chunk.js": "/website/static/js/453.01c969ee.chunk.js",
     "static/media/deeplab_v2.jpg": "/website/static/media/deeplab_v2.ec88d7afd0cbaf9c2fe1.jpg",
     "static/media/pranet.png": "/website/static/media/pranet.a9f8b5ddef22de664dd3.png",
@@ -9,12 +9,12 @@
     "static/media/LoRaMedNet.png": "/website/static/media/LoRaMedNet.c266f05e30874ccd1cd5.png",
     "static/media/fcn.png": "/website/static/media/fcn.561a83308325ceac13d1.png",
     "index.html": "/website/index.html",
-    "main.b42fd38a.css.map": "/website/static/css/main.b42fd38a.css.map",
-    "main.67941a06.js.map": "/website/static/js/main.67941a06.js.map",
+    "main.ea46f720.css.map": "/website/static/css/main.ea46f720.css.map",
+    "main.d6600783.js.map": "/website/static/js/main.d6600783.js.map",
     "453.01c969ee.chunk.js.map": "/website/static/js/453.01c969ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b42fd38a.css",
-    "static/js/main.67941a06.js"
+    "static/css/main.ea46f720.css",
+    "static/js/main.d6600783.js"
   ]
 }
